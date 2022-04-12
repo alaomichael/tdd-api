@@ -1,0 +1,9 @@
+lib/defs.js
+scratch
+node_modules/
+
+etc/
+coverage/
+/.idea/
+
+.env
